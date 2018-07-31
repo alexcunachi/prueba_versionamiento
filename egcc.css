@@ -1,0 +1,62 @@
+BODY {
+	color: #FFEFD5;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 0.8em;
+	font-weight: 500;
+	background: #FFFFFF;
+	}
+
+H1	{	
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 2em;
+	font-weight: 700;
+	}	
+	
+H2	{	
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 1.75em;
+	font-weight: 700;
+	}
+	
+H3	{	
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:	1.58em;
+	font-weight: 500;
+	}
+	
+H4  {	
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 1.30em;	
+	font-weight: 400;
+    }	
+
+TH {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 0.9em;
+	color: White;
+	font-weight: 500;
+	font: bold;
+	background: #BF00FF;
+	}
+	
+TD {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 0.9em;
+	font-weight: 500;
+	color: Navy;
+	}
+
+A {
+	color: #BF00FF;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 1.1em;
+	text-decoration: none;
+}
+
+A:HOVER {
+	color: White;
+   font-family: Verdana, Arial, Helvetica, sans-serif;
+   font-size: 1.1em;
+	background: #FFFFFF;
+	text-decoration: none;
+}
